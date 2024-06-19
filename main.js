@@ -16,7 +16,7 @@ const messages = [
 "I don't know a lot about you either",
 "That has to change right?",
 "So I was wondering...",
-"Would like to go on a date with me?",
+"Would you like to go on a date with me?",
 "I promise to bring flowers ",
 "(Real ones this time hehe)",
 "~ from Shari"
