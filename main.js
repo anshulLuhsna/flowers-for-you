@@ -3,11 +3,23 @@ onload = () =>{
 };
 
 const messages = [
-  "I have something to tell you...",
-  "You smell lol..."
-
-
-
+  "Hi Saranya",
+"I have something to tell you...",
+"You smell",
+"... like lavender",
+"... but like an old one",
+"I'm kidding lol",
+"In reality you smell like these flowers down below",
+"I lovee their smell",
+"But I have no idea what they're called lol",
+"In the same way,",
+"I don't know a lot about you either",
+"That has to change right?",
+"So I was wondering...",
+"Would like to go on a date with me?",
+"I promise to bring flowers ",
+"(Real ones this time hehe)",
+"~ from Shari"
 ];
 let currentMessage = 0;
 
