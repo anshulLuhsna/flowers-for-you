@@ -3,8 +3,8 @@ onload = () =>{
 };
 
 const messages = [
-  "Hi",
-  "Does this work?"
+  "I have something to tell you...",
+  "You smell lol..."
 
 
 
