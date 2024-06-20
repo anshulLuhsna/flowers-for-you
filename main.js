@@ -3,10 +3,11 @@ onload = () =>{
 };
 
 const messages = [
-  "Hey Saranya,",
+  "Heyy Saranya,",
   "I have something important to ask you.",
   "I don’t mean to sound cheesy or overly romantic",
   "but... ",
+  " ",
   "Would you like to be my tour guide and show me around Plymouth?",
   "Just kidding!",
   "I would love to get to know you better",
