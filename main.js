@@ -3,25 +3,15 @@ onload = () =>{
 };
 
 const messages = [
-  "Hi Saranya",
-"I have something to tell you...",
-"You smell",
-"...like lavender",
-"...but like an old one",
-"I'm kidding lol",
-"In reality you smell like these flowers below",
-"A fragrance I love",
-"Yet, amid the fragrance and petals, the thorns reside,",
-"But I have no idea what these flowers are called lol",
-"In the same way,",
-"I don't know a lot about you either",
-"That has to change right?",
-"For the beauty lies in exploring both the thorns and fragrance.",
-"So I was wondering...",
-"Would you like to go on a date with me?",
-"I promise to bring flowers ",
-"(Real ones this time hehe)",
-"~ from Shari"
+  "Hey Saranya,",
+  "I have something important to ask you.",
+  "I don’t mean to sound cheesy or overly romantic",
+  "but... ",
+  "Would you like to be my tour guide and show me around Plymouth?",
+  "Just kidding!",
+  "I would love to get to know you better",
+  "so would you go on a date with me?",
+  "Also, the tour guide thing."
 ];
 let currentMessage = 0;
 
