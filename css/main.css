@@ -1340,3 +1340,8 @@ body {
   -webkit-animation-play-state: paused !important;
           animation-play-state: paused !important;
 }
+
+#imageContainer {
+  z-index: 100;
+  display: none;
+}
