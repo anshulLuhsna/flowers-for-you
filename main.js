@@ -40,7 +40,7 @@ function showMessage() {
         typewriterText.textContent = messages[currentMessage];
         typewriterText.classList.add('fade-in');
         currentMessage++;
-    }, 1500);
+    }, 1750);
 } else {
     // Hide the message text and show the image
     typewriterText.style.display = 'none';
@@ -55,4 +55,4 @@ function showMessage() {
 showMessage();
 
 // Change message every 4 seconds plus fade duration (adjust as needed)
-setInterval(showMessage, 3000); // 2s for fade-in, 2s for visible, 2s for fade-out
+setInterval(showMessage, 3500); // 2s for fade-in, 2s for visible, 2s for fade-out
